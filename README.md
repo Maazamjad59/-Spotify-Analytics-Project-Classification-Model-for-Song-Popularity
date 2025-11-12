@@ -19,7 +19,6 @@ Machine learning project that predicts song popularity using Spotify audio featu
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/spotify-hit-predictor.git
 cd spotify-hit-predictor
 pip install -r requirements.txt
 jupyter notebook spotify_analysis.ipynb
